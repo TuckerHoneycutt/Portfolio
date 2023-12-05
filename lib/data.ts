@@ -3,6 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
+import taylorImg from "@/public/TaylorSwiftSite.png"
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
@@ -97,9 +98,9 @@ export const projectsData = [
   {
     title: "CorpComment",
     description:
-      "I self studied and build this project outside of class",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "I self studied and build this project outside of class for my girlfriend",
+    tags: ["HTML", "CSS"],
+    imageUrl: taylorImg,
   },
   {
     title: "rmtDev",
