@@ -134,6 +134,7 @@ export const skillsData = [
   "Python",
   "Django",
   "Framer Motion",
+  "Resend",
   "C",
   "C++",
   "Rust",
