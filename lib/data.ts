@@ -57,7 +57,7 @@ export const experiencesData = [
   description:
     "Designed, developed and tested Arduino circuitry used as the data acquisition system which flies on a drone as part of a wireless power transfer project for the Naval Research Laboratory.  Wrote and debugged the software which reports various voltages in the charging circuit.",
   icon: React.createElement(CgWorkAlt),
-  date: "May-August 2019",
+  date: "May - August 2019",
 },
 {
   title: "University Of Alabama",
@@ -65,7 +65,7 @@ export const experiencesData = [
   description:
     "Majored in Electrical engineering. Changed my major to Computer science in the fall of 2023",
   icon: React.createElement(LuGraduationCap),
-  date: "August 2019-Present",
+  date: "August 2019 - Present",
 },
 {
   title: "Bestbuy | Seasonal Sales Associate",
@@ -73,7 +73,7 @@ export const experiencesData = [
   description:
     "Computing sales associate at BestBuy. Specialized in helping customers find the best product to fit their computing needs. Assisted in Car Audio, Home Theater, and Home Appliances.",
   icon: React.createElement(CgWorkAlt),
-  date: "October-January 2021",
+  date: "October 2020 - January 2021",
 },
 {
   title: "Publix | Deli associate",
