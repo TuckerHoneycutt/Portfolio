@@ -6,6 +6,7 @@ import corpcommentImg from "@/public/corpcomment.png";
 import taylorImg from "@/public/TaylorSwiftSite.png"
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
+import snakeIMG from "@/public/snake.png"
 
 export const links = [
   {
@@ -103,11 +104,11 @@ export const projectsData = [
     imageUrl: taylorImg,
   },
   {
-    title: "rmtDev",
+    title: "Snake Game",
     description:
-      "I build this in preparation for a freelancing gig interview and to learn TypeScript for the first time.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "I build this simple snake game in preparation for an interview",
+    tags: ["JavaScript", "HTML", "CSS"],
+    imageUrl: snakeIMG,
   },
   {
     title: "Word Analytics",
@@ -116,6 +117,13 @@ export const projectsData = [
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
+  {
+    title: "Word Analytics",
+    description:
+      "My dad inspired this project as a personal project he's been working on forever and I took it to the next level.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: wordanalyticsImg,
+  }
 ] as const;
 
 export const skillsData = [
