@@ -99,7 +99,7 @@ export const projectsData = [
   {
     title: "CorpComment",
     description:
-      "I self studied and build this project outside of class for my girlfriend",
+      "I self studied and build this project outside of class for a friend.",
     tags: ["HTML", "CSS"],
     imageUrl: taylorImg,
   },
