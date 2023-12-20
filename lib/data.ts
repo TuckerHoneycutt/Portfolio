@@ -103,6 +103,7 @@ export const projectsData = [
       "My dad inspired this project as a personal project he's been working on forever and I took it to the next level.",
     tags: ['Streamlit', 'TensorFlow', 'Python', 'Pandas', 'Yfinance'],
     imageUrl: stockpredictorIMG,
+    link: 'https://github.com/TuckerHoneycutt/Stock-Predictor'
   },
   {
     title: "Taylor Swift Album Cards",
@@ -110,6 +111,7 @@ export const projectsData = [
       "I self studied and build this project outside of class for a friend.",
     tags: ["HTML", "CSS"],
     imageUrl: taylorImg,
+    link: 'https://github.com/TuckerHoneycutt/TaylorSwiftAlbumCards'
   },
   {
     title: "Snake Game",
@@ -117,11 +119,12 @@ export const projectsData = [
       "I build this simple snake game in preparation for an interview",
     tags: ["JavaScript", "HTML", "CSS"],
     imageUrl: snakeIMG,
+    link: 'https://github.com/TuckerHoneycutt/Snake-Game'
   },
   {
     title: "Word Analytics",
     description:
-      "My dad inspired this project as a personal project he's been working on forever and I took it to the next level.",
+      "Word analytics project I made to learn SQL",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   }
