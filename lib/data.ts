@@ -7,7 +7,7 @@ import taylorImg from "@/public/TaylorSwiftSite.png"
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 import snakeIMG from "@/public/snake.png"
-import stockpredictorIMG from '@public/stock-predictor.png'
+import stockpredictorIMG from '../public/stock-predictor.png'
 
 export const links = [
   {
@@ -98,6 +98,13 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Stock-Predictor",
+    description:
+      "My dad inspired this project as a personal project he's been working on forever and I took it to the next level.",
+    tags: ['Streamlit', 'TensorFlow', 'Python', 'Pandas', 'Yfinance'],
+    imageUrl: stockpredictorIMG,
+  },
+  {
     title: "Taylor Swift Album Cards",
     description:
       "I self studied and build this project outside of class for a friend.",
@@ -110,13 +117,6 @@ export const projectsData = [
       "I build this simple snake game in preparation for an interview",
     tags: ["JavaScript", "HTML", "CSS"],
     imageUrl: snakeIMG,
-  },
-  {
-    title: "Stock-Predictor",
-    description:
-      "My dad inspired this project as a personal project he's been working on forever and I took it to the next level.",
-    tags: ['Streamlit', 'TensorFlow', 'Python', 'Pandas', 'Yfinance'],
-    imageUrl: stockpredictorIMG,
   },
   {
     title: "Word Analytics",
