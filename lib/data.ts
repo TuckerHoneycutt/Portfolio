@@ -7,6 +7,7 @@ import taylorImg from "@/public/TaylorSwiftSite.png"
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 import snakeIMG from "@/public/snake.png"
+import stockpredictorIMG from '@public/stock-predictor.png'
 
 export const links = [
   {
@@ -115,7 +116,7 @@ export const projectsData = [
     description:
       "My dad inspired this project as a personal project he's been working on forever and I took it to the next level.",
     tags: ['Streamlit', 'TensorFlow', 'Python', 'Pandas', 'Yfinance'],
-    imageUrl: wordanalyticsImg,
+    imageUrl: stockpredictorIMG,
   },
   {
     title: "Word Analytics",
