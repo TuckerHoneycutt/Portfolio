@@ -127,6 +127,7 @@ export const projectsData = [
       "Word analytics project I made to learn SQL",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
+    link: 'https://github.com/TuckerHoneycutt'
   }
 ] as const;
 
