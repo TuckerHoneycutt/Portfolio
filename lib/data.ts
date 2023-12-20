@@ -97,7 +97,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Taylor Swift Album Cards",
     description:
       "I self studied and build this project outside of class for a friend.",
     tags: ["HTML", "CSS"],
@@ -111,10 +111,10 @@ export const projectsData = [
     imageUrl: snakeIMG,
   },
   {
-    title: "Word Analytics",
+    title: "Stock-Predictor",
     description:
       "My dad inspired this project as a personal project he's been working on forever and I took it to the next level.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ['Streamlit', 'TensorFlow', 'Python', 'Pandas', 'Yfinance'],
     imageUrl: wordanalyticsImg,
   },
   {
@@ -146,4 +146,8 @@ export const skillsData = [
   "C",
   "C++",
   "Rust",
+  'TensorFLow',
+  'Pandas',
+  'Streamlit',
+  'Yfinance',
 ] as const;
