@@ -8,6 +8,7 @@ import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 import snakeIMG from "@/public/snake.png"
 import stockpredictorIMG from '../public/stock-predictor.png'
+import rustIMG from "@public/RustCSV.png"
 
 export const links = [
   {
@@ -122,12 +123,12 @@ export const projectsData = [
     link: 'https://github.com/TuckerHoneycutt/Snake-Game'
   },
   {
-    title: "Word Analytics",
+    title: "Rust Bookkeeping CSV and SQL app",
     description:
-      "Word analytics project I made to learn SQL",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
-    link: 'https://github.com/TuckerHoneycutt'
+      "Simple Rust app that takes user's input and writes both to a sql database and to a csv file.",
+    tags: ["Rust", "SQL"],
+    imageUrl: rustIMG,
+    link: 'https://github.com/TuckerHoneycutt/Rust-SQL-BookKeeping-App'
   }
 ] as const;
 
