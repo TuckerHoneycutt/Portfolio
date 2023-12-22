@@ -7,8 +7,8 @@ import taylorImg from "@/public/TaylorSwiftSite.png"
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 import snakeIMG from "@/public/snake.png"
-import stockpredictorIMG from '../public/stock-predictor.png'
-import rustIMG from "@public/RustCSV.png"
+import stockpredictorIMG from '@/public/stock-predictor.png'
+import rustIMG from "@/public/RustCSV.png"
 
 export const links = [
   {
