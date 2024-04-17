@@ -115,14 +115,6 @@ export const projectsData = [
     link: 'https://github.com/TuckerHoneycutt/TaylorSwiftAlbumCards'
   },
   {
-    title: "Snake Game",
-    description:
-      "I build this simple snake game in preparation for an interview",
-    tags: ["JavaScript", "HTML", "CSS"],
-    imageUrl: snakeIMG,
-    link: 'https://github.com/TuckerHoneycutt/Snake-Game'
-  },
-  {
     title: "Rust Bookkeeping CSV and SQL app",
     description:
       "Simple Rust app that takes user's input and writes both to a sql database and to a csv file.",
