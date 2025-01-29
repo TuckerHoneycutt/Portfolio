@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/selfie2.jpeg"
+              src="/TriVector Headshot.jpg"
               alt="Tucker selfie"
               width="192"
               height="192"
