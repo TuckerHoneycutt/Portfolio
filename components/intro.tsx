@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/TriVector Headshot.jpg"
+              src="/Headshot Profile Pic.png"
               alt="Tucker selfie"
               width="192"
               height="192"
@@ -65,8 +65,10 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Tucker.</span> I'm a{" "}
         <span className="font-bold">junior at the University of Alabama in Huntsville and a full-stack developer</span> with{" "}
         <span className="font-bold">2 years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        building <span className="italic">sites & apps</span>. My focus is:<br />{" "}
+        <span className="underline">
+          React (Next.js)
+        </span>.
       </motion.h1>
 
       <motion.div

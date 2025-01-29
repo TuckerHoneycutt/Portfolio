@@ -38,13 +38,29 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
-{
+  {
+    title: "TriVector Services Inc | Digital Engineering & Software Engineering Intern",
+    location: "Huntsville, Al",
+    description:
+      "Spearheaded the redesign of a mission-critical Army task tracking system utilizing Go and NextJS on Microsoft Azure implementing AGILE methodology.  Implemented modern cloud architecture practices to enhance system reliability and scalability. Developed RESTful APIs and microservices to improve system integration capabilities. Collaborated with cross-functional teams in the U.S. Army’s Software Readiness Division to deliver robust solutions aligned with military specifications. Presented technical solutions and progress reports to Software Readiness Division leadership. Redesigned company website using WordPress to improve UI/UX and SEO. Created SysML models for NASA and U.S. Army initiaves. Developed a Python-based desktop application leveraging open-source LLM and embedding models for natural language processing.",
+    icon: React.createElement(CgWorkAlt),
+    date: "May 2024 - Present",
+  },
+  {
+    title: "University Of Alabama in Huntsville",
+    location: "Huntsville, Al",
+    description:
+      "Changed schools, majoring in computer science",
+    icon: React.createElement(LuGraduationCap),
+    date: "May 2024 - Present",
+  },
+  {
   title: "Parachute | Web Development Fellowship Intern",
   location: "Remote",
   description:
     "Redesigned website and database, boosting UX and performance. Developed secure APIs for AI data ingestion. Implemented Agile methodology, fostering collaboration and productivity. Collaborated with cross-functional teams to align projects with company goals.",
   icon: React.createElement(CgWorkAlt),
-  date: "January - Present 2024",
+  date: "January - May 2024",
 },
 {
   title: "Verizon Wireless | Retail Specalist",
@@ -60,7 +76,7 @@ export const experiencesData = [
   description:
     "Majored in Electrical engineering. Changed my major to Computer science in the fall of 2023",
   icon: React.createElement(LuGraduationCap),
-  date: "August 2019 - Present",
+  date: "August 2019 - 2022",
 },
 {
   title: "Publix | Deli associate",
